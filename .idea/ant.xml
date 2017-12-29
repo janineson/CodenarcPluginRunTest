@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AntConfiguration">
+    <buildFile url="file://$APPLICATION_PLUGINS_DIR$/codenarc-idea/lib/report.xml">
+      <additionalClassPath>
+        <entry dir="file://C:/Program Files (x86)/Groovy/Groovy-2.4.7/lib" />
+        <entry dir="file://$APPLICATION_PLUGINS_DIR$/codenarc-idea/lib" />
+      </additionalClassPath>
+    </buildFile>
+  </component>
+</project>
